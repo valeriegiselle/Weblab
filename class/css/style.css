@@ -1,0 +1,60 @@
+h1
+{
+  color: red;
+}
+
+/* This is a class */
+.container
+
+{
+  margin:auto;
+  padding: 20px;
+  background-color: lightgreen;
+  width:50%;
+  box-shadow: 15px, 20px, 10px, 10px rgb(219,219,219)
+  border-radius: 8px
+}
+.container h1 {
+  font-size: 4em;
+}
+.sidebar {
+
+margin:auto;
+padding: 20px;
+background-color: lightgreen;
+width:10%;
+box-shadow: 15px, 20px, 10px, 10px rgb(219,219,219);
+border-radius: 8px;
+}
+
+.navigation {
+  display: table;
+  margin: auto;
+  margin-top: 30px
+  margin-bottom: 80px;
+}
+.horizonaline {
+  padding-top: 20px;
+}
+
+.horizonaline li {
+  display: inline
+  margin: 40px;
+  padding: 20px, 60px, 20px, 60px;
+  background-color: white;
+  width: 10%;
+}
+
+.horizonaline li a {
+  color: gray;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+.horizonaline l a:hover {
+  color: red }
+/* this is an id */
+#dog {
+  background-color: rgb(21, 224, 237);
+  width: 400px;
+}

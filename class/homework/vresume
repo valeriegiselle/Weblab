@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<div id="header"></div>
+<div class="left"></div>
+<div class="stuff">
+  <br><br>
+  <h1>Resume</h1>
+  <h2>Valerie Giselle Ceballos</h2>
+  <hr />
+  <br>
+  <p class="head">Interests</p>
+  <ul>
+    <li>Drawing</li>
+    <li>Photography</li>
+    <li>Design</li>
+    <li>Writing</li>
+    <li>Education</li>
+  </ul>
+  <p class="head">Skills</p>
+  <ul>
+    <li>Proficient in computer, Internet and Social Media. Ability to interact and build rapport with people. Excellent verbal and written skills. Very responsible, organized and goal driven.</li>
+  </ul>
+
+  <p class="head">Education</p>
+  <ul>
+    <a href="http://www.wiltonhighschool.org/pages/Wilton_High_School">
+      <li>Mater Lakes Academy</li>
+    </a>
+    <!--Link-->
+    <a href="https://www.silvermineart.org/">
+      <li>Broward College</li>
+    </a>
+    <li>University Of Miami</li>
+  </ul>
+  <p class="head">Experience</p>
+  <ul>
+    <li>Anthony’s Coal Fired Pizza— Waitress, Hostess, Takeout</li>
+    <li>Keen Connections- Internship/Shadowing a Mentor</li>
+    <li>Shulas Athletic Club, Miami Lakes, FL— Volunteered Counselor</li>
+  </ul>
+  <p class="head">Extracurriculars</p>
+  <ul>
+    <li>Surfs Club</li>
+    <li>Miami Mindfullness Club</li>
+    <li>HIIT</li>
+  </ul>
+</div>
+<div class="right"></div>
+<div id="footer">
+  <h2 id="name">Valerie Giselle</h2></div>
